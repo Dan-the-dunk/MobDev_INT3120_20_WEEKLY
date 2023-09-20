@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable anhba
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id anhBa
+id feedback
+id imageView
+id input
+id mes
+id messageInput
+id phoneInput
+layout activity_anhba
+layout activity_another
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Slide7
+style Theme.Slide7
+xml backup_rules
+xml data_extraction_rules
