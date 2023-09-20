@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="BGE00140942" />
+            <value value="adb-BGE00140942-fne5Lc._adb-tls-connect._tcp" />
           </Key>
         </deviceKey>
       </Target>
     </runningDeviceTargetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-09-09T13:36:08.626737900Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-09-14T04:16:49.252835200Z" />
   </component>
 </project>
